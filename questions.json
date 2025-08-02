@@ -1,22 +1,23 @@
 [
   {
-    "question": "Сколько будет 2 + 2?",
+    "question": "Что быстрее свет или звук?",
     "answers": [
-      { "text": "4", "correct": true },
-      { "text": "5", "correct": false }
+      { "text": "Свет", "correct": true },
+      { "text": "Звук", "correct": false }
     ]
   },
   {
-    "question": "Столица Франции?",
+    "question": "Какое животное больше?",
     "answers": [
-      {
-        "text": "Париж",
-        "correct": true
-      },
-      {
-        "text": "Берлин",
-        "correct": false
-      }
+      { "text": "Кит", "correct": true },
+      { "text": "Слон", "correct": false}
+    ]
+  },
+  {
+    "question": "Какая кость у человека самая большая?",
+    "answers": [
+      { "text": "Бедреная ", "correct": true },
+      { "text": "Спиная", "correct": false }
     ]
   }
 ]
