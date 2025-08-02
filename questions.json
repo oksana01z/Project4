@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Сколько будет 2 + 2?",
+    "answers": [
+      { "text": "4", "correct": true },
+      { "text": "5", "correct": false }
+    ]
+  },
+  {
+    "question": "Столица Франции?",
+    "answers": [
+      {
+        "text": "Париж",
+        "correct": true
+      },
+      {
+        "text": "Берлин",
+        "correct": false
+      }
+    ]
+  }
+]
