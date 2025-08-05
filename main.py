@@ -15,7 +15,7 @@ app = Client(
 @app.on_message(filters.command("start"))
 async def start_command(client: Client, message: Message):
     print("/start")
-    await message.reply(" Напиши /quiz чтобы начать")
+    await message.reply("Привет! я бот с векториной и смешными собаками . Напиши /quiz чтобы начать")
 
 @app.on_message(filters.command("quiz"))
 async def quiz_command(client, message):
